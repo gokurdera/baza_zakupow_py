@@ -1,3 +1,4 @@
 #Ignoruj folder, który nazywa się tmp
 tmp/
+#Ignoruj virtualenva
 venv/
