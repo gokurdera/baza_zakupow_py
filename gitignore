@@ -1,0 +1,3 @@
+#Ignoruj folder, który nazywa się tmp
+tmp/
+venv/
